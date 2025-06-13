@@ -13,7 +13,7 @@ function Register() {
 
   return (
     <form onSubmit={handleSubmit}>
-      <h2>📝 Registration Page</h2>
+      <h2>Registration Page</h2>
       <input
         type="email"
         value={email}
